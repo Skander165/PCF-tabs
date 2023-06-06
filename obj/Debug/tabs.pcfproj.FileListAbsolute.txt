@@ -1,0 +1,2 @@
+C:\Users\KM989HW\_Never Backup\tabs\obj\Debug\tabs.pcfproj.AssemblyReference.cache
+C:\Users\KM989HW\_Never Backup\tabs\obj\Debug\tabs.pcfproj.CoreCompileInputs.cache
